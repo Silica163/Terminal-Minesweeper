@@ -4,6 +4,8 @@
 - เปิด minesweeper.bat
 - พิมพ์ `node index` หรือ `minesweeper` ใน command prompt
 
+จากนั้น มันจะให้ใส่จำนวนระเบิด
+
 ## คำสั่ง
 พิมพ์คำสั่ง select , mark ,unmark เว้นวรรค ตามด้วยตำแหน่ง แนวตั้ง แนวนอน ตามลำดับ
 
