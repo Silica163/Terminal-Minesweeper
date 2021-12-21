@@ -292,7 +292,7 @@ GameManager.prototype.markStatus = function(){
 GameManager.prototype.saveMap = function(target){
     switch (target){
         case "map":
-            fs.appendFileSync("log.txt", `${Date()}\nSYTEM MAP\n${map.join("\n")}\n\n`);
+            fs.appendFileSync("log.txt", `${Date()}\nallmine : ${this.allMine}\nSYTEM MAP\n${map.join("\n")}\n\n`);
             break;
         case "dpmap":
             fs.appendFileSync("log.txt", `DISPLAY MAP\n${DisplayMap.join("\n")}\n\n`);
@@ -300,5 +300,5 @@ GameManager.prototype.saveMap = function(target){
         default:
             break;
     }
-}
+};
 exports.GameManager = GameManager;
