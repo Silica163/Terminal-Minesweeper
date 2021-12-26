@@ -19,6 +19,7 @@ OutputManager.prototype.Show = function(y,x){
 };
 
 OutputManager.prototype.Update = function(){
+    //output
     var outputMap = `\x1b[H
 + - + - + - + - + - + - + - + - + - + - + - +
 |   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
