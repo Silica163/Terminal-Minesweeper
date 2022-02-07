@@ -1,7 +1,7 @@
 # Terminal-Minesweeper
 
 ## ควรมีก่อนเล่น
-- [nodejs]("https://nodejs.org")
+- [nodejs]('https://nodejs.org/en')
 
 ## วิธีเล่น
 - เปิด minesweeper.bat
