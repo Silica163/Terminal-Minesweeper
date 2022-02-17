@@ -4,7 +4,7 @@
 - [nodejs](https://nodejs.org/en/)
 
 ## วิธีเล่น
-- เปิด minesweeper.bat
+- เปิด minesweeper.cmd
 - พิมพ์ `node index` หรือ `minesweeper` ใน terminal
 
 จากนั้น ใส่จำนวนระเบิด
