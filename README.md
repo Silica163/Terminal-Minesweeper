@@ -1,7 +1,7 @@
 # Terminal-Minesweeper
 
 ## ควรมีก่อนเล่น
-- [nodejs](https://nodejs.org/en/)
+- [nodejs](https://nodejs.org/en/) v16.8.0 หรือสูงกว่า
 
 ## วิธีเล่น
 - เปิด minesweeper.cmd
@@ -15,3 +15,6 @@
 ตัวอย่าง
 
 `mark a0`
+
+## ภาพ
+![terminal-minesweeper](./img/terminal-minesweeper.png)
